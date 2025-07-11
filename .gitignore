@@ -5,3 +5,5 @@ ollama/
 *.gguf
 *.ggml
 .idea/
+
+certs/
